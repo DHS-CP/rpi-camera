@@ -11,3 +11,10 @@ download them, if so, zip up the files and download.  If downloading, the script
 of the zip file to an archive directory, and then deleting the current set of files that were zipped and downloaded.
 This script should be written in flask for now, and also provide the user with the current free space, and the number of archive 
 files in the archive directory and their total size.  Management of archive files will be a manual process for now.
+
+NOTES:
+ffmpeg can be installed on raspberry pi using these instructions:
+https://linuxhint.com/install-ffmpeg-raspberry-pi/
+
+Here are some notes on using ffmpeg to convert still images to a timelapse:
+https://superuser.com/questions/1499968/creating-timelapse-from-still-images-jpg-to-mp4-using-ffmpeg
